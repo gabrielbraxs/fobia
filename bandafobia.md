@@ -19,6 +19,4 @@
 - URL ---> /home
 - Https ---> Protocolo
 
-  - wWW.bandafobia.com/home/
-
-  
+  - www.bandafobia.com/home/
