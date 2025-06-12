@@ -7,7 +7,7 @@
      - Refêrencias musicais
      - Direitos da banda
 
-- II. IGM: Adicionando imagens ao site ""10.06.25
+- II. IGM: Adicionando imagens ao site "10.06.25"
      - Img Logo
      - Img Apresentação dos membros
      
