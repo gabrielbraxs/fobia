@@ -1,6 +1,6 @@
 # ANOTAÇÕES/REGISTROS 
 
-- I. HTML: CRIAÇÃO INICIAL DO SITE "05.06.25"
+-I. HTML: CRIAÇÃO INICIAL DO SITE "05.06.25"
      - Criação da .html "bandafobia"
      - Adicionando o sobre da banda
      - Integrantes
@@ -15,4 +15,11 @@
      - Ico Logo
      - Adicionando Ico no topo da página da web. "11.06.25"
 
-- IV. 
+- IV. Listas
+     - Listas ordenadas com acesso a informações da banda
+
+- IIV. Links externos e internos
+     - Adicionando links externos 
+       - Para redes sociais 
+       - Compra de Ingressos
+       - Locais de turnês
